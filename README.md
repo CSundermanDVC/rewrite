@@ -32,4 +32,4 @@ The skill is plain text: `SKILL.md` and two rule files. It contains no program a
 
 ## License
 
-MIT. Made by Cas Sunderman (cassunderman.nl).
+MIT. Made by [Cas Sunderman](https://cassunderman.nl). How I use it: [cassunderman.nl/werkbank/rewrite](https://cassunderman.nl/werkbank/rewrite).
